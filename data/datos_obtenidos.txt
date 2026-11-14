@@ -1,0 +1,22 @@
+DISTRIBUCIÓN DE MAXWELL PARA EL HELIO
+Temperatura 400 K
+--------------------------------------
+Velocidad más probable 1289.11 ms
+Velocidad media        1454.61 ms
+Velocidad RMS          1578.83 ms
+
+TABLA DE DISTRIBUCIÓN
+Velocidad (ms)  f(v) (sm)
+              0  0.000000e+00
+            250  6.341014e-05
+            500  2.265780e-04
+            750  4.224081e-04
+           1000  5.771309e-04
+           1250  6.428236e-04
+           1500  6.120465e-04
+           1750  5.109059e-04
+           2000  3.795950e-04
+           2250  2.534860e-04
+           2500  1.531546e-04
+           2750  8.412197e-05
+           3000  4.215152e-05
